@@ -2,7 +2,7 @@
 
 Demo app
 
-![](FlightTicket.gif)
+![](FlighTicket.gif)
 
 ## Getting Started
 
